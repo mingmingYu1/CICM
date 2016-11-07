@@ -1,0 +1,36 @@
+/*鍨傜洿灞呬腑*/
+.verticalAlign{ vertical-align:middle; display:inline-block; height:100%; margin-left:-1px;}
+.xcConfirm .xc_layer{position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: #666666; opacity: 0.5; z-index: 2147000000;filter:alpha(opacity=50)}
+.xcConfirm .popBox .txtBox p input{width: 364px; height: 30px; border: solid 1px black; font-size: 18px; margin-top: 6px;}
+/**修改外框的样式**/
+.xcConfirm .popBox{position: fixed; left: 50%; top: 50%; background-color: #ffffff; z-index: 2147000001;width:300px;min-height:130px;border-radius:2px;border:1px solid #cdcdcd;margin-left:-150px;margin-top:-65px;}
+/**X按钮的样式**/
+.xcConfirm .popBox .ttBox .clsBtn{position:absolute;top:10px;right:15px;color:#d1d2d3;font-size:14px; cursor: pointer;}
+.xcConfirm .popBox .ttBox .clsBtn:hover{color:#1a9ce2;}
+/**弹出内容样式**/
+.xcConfirm .popBox .txtBox{margin-top: 40px; overflow: hidden;}
+.xcConfirm .popBox .txtBox p{overflow-x: hidden; overflow-y: auto;color:#333;font-size:13px;text-align:center;margin-bottom:0px;padding:0 15px;}
+/**按钮的样式**/
+.xcConfirm .popBox .btnArea{margin-bottom:20px;margin-top:30px;float:left;width:150px;text-align:center;margin-left:80px;}
+.xcConfirm .popBox .btnGroup{}
+.xcConfirm .popBox .btnGroup .sgBtn{}
+.xcConfirm .popBox .sgBtn{width:65px;height:25px;line-height:25px;font-size:13px;display:inline-block; cursor: pointer; border-radius: 2px;}
+.xcConfirm .popBox .sgBtn.ok{background-color: #1a9ce2; color: #FFF;}
+.xcConfirm .popBox .sgBtn.ok:hover{background-color: #178ccb;}
+.xcConfirm .popBox .sgBtn.cancel{background-color: #fff; color: #333;border:1px solid #cdcdcd;margin-left:20px;}
+.xcConfirm .popBox .sgBtn.cancel:hover{background-color: #f3f8fd;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
